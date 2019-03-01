@@ -1,0 +1,119 @@
+.root{
+    -fx-background-image: url("background.jpg");
+    -fx-background-size: 1250 800;
+}
+#accept{
+    -fx-background-image:url("accept.png");
+    -fx-background-size: 27 27;
+    -fx-background-color: transparent
+}
+#decline{
+    -fx-background-image:url("decline.png");
+    -fx-background-size: 27 27;
+    -fx-background-color: transparent
+}
+#0{
+    -fx-background-image:url("a.png");
+    -fx-background-size: 25 25
+}
+#1{
+    -fx-background-image:url("b.png");
+    -fx-background-size: 25 25
+}
+#2{
+    -fx-background-image:url("c.png");
+    -fx-background-size: 25 25
+}
+#3{
+    -fx-background-image:url("d.png");
+    -fx-background-size: 25 25
+}
+#4{
+    -fx-background-image:url("e.png");
+    -fx-background-size: 25 25
+}
+#5{
+    -fx-background-image:url("f.png");
+    -fx-background-size: 25 25
+}
+#6{
+    -fx-background-image:url("g.png");
+    -fx-background-size: 25 25
+}
+#7{
+    -fx-background-image:url("h.png");
+    -fx-background-size: 25 25
+}
+#8{
+    -fx-background-image:url("i.png");
+    -fx-background-size: 25 25
+}
+#9{
+    -fx-background-image:url("j.png");
+    -fx-background-size: 25 25
+}
+#10{
+    -fx-background-image:url("k.png");
+    -fx-background-size: 25 25
+}
+#11{
+    -fx-background-image:url("l.png");
+    -fx-background-size: 25 25
+}
+#12{
+    -fx-background-image:url("m.png");
+    -fx-background-size: 25 25
+}
+#13{
+    -fx-background-image:url("n.png");
+    -fx-background-size: 25 25
+}
+#14{
+    -fx-background-image:url("o.png");
+    -fx-background-size: 25 25
+}
+#15{
+    -fx-background-image:url("p.png");
+    -fx-background-size: 25 25
+}
+#16{
+    -fx-background-image:url("q.png");
+    -fx-background-size: 25 25
+}
+#17{
+    -fx-background-image:url("r.png");
+    -fx-background-size: 25 25
+}
+#18{
+    -fx-background-image:url("s.png");
+    -fx-background-size: 25 25
+}
+#19{
+    -fx-background-image:url("t.png");
+    -fx-background-size: 25 25
+}
+#20{
+    -fx-background-image:url("u.png");
+    -fx-background-size: 25 25
+}
+#21{
+    -fx-background-image:url("v.png");
+    -fx-background-size: 25 25
+}
+#22{
+    -fx-background-image:url("w.png");
+    -fx-background-size: 25 25
+}
+#23{
+    -fx-background-image:url("x.png");
+    -fx-background-size: 25 25
+}
+#24{
+    -fx-background-image:url("y.png");
+    -fx-background-size: 25 25
+}
+#25{
+    -fx-background-image:url("z.png");
+    -fx-background-size: 25 25
+}
+
